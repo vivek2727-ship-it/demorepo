@@ -1,0 +1,5 @@
+File was quarantined by Zscaler Data Protection.
+Machine name : laptop
+Username : vivek@technociate.in
+Quarantine path: C:\ProgramData\Zscaler\ZDP\User Files\vivek\Lost and Found\C\Users\vivek\OneDrive\All Files\المستندات\DEMO\_VP_DLP_TEST_TXT.txt
+df8b1fcd5d0053ec67db60cd4c6dd540f78fb1675dd285f441234ebee2237cc2
