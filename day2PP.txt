@@ -1,0 +1,6 @@
+First user smartsearch then log viewer.
+Log files archive after 25mb. Enable the "INclude old logs" to include old logs in the search.
+Antispoofing - can enable pp_antispoof if customer is not on DMARC reject.
+
+
+
